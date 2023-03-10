@@ -19,3 +19,5 @@ spec:
         image: lakhvinder25/nodejs-todo-app
         ports:
         - containerPort: 8000
+
+
